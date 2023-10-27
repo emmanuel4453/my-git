@@ -1,0 +1,16 @@
+h2 {
+    colour:red;
+    font-size: 36px;
+}
+
+@media  screen and (max-width:720) {
+
+    body{
+        background-color: black;
+        text-align: center;
+    }
+    
+    
+}
+
+ 
